@@ -1,1 +1,3 @@
 # Bigdata
+- Pandas
+- Machine Learning
