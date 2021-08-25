@@ -2,4 +2,4 @@
 - Pandas
 - Machine Learning
 - Project
-  : Stock Recommendation
+  - Stock Recommendation
